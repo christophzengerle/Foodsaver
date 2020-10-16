@@ -43,13 +43,21 @@ html {
 .topnav_logo {
   float: left;
   height: 46px;
-  width: 169px;
+  width: 148.5px;
 }
 
 .logo_image img {
   float: left;
   height: 46px;
   width: 70px;
+}
+.logo_image a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1px 1px;
+  text-decoration: none;
 }
 
 /* Change color on hover */
